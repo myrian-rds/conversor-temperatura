@@ -1,4 +1,4 @@
-package main;
+package br.edu.icomp.ufam.gc.myrian;
 
 public class Conversor{
     private Temperatura temp;
