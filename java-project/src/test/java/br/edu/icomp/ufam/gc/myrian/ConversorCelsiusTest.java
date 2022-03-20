@@ -13,7 +13,7 @@ public class ConversorCelsiusTest {
 
     @BeforeEach
     public void setup(){
-        conversorTest = new Conversor('C', 20);
+        conversorTest = new Conversor('C', 30);
     }
 
     @Test
