@@ -1,6 +1,6 @@
 package br.edu.icomp.ufam.gc.myrian;
 
-import org.apache.commons.codec.digest.DigestUtils;
+//import org.apache.commons.codec.digest.DigestUtils;
 
 public class Conversor{
     private Temperatura temp;
