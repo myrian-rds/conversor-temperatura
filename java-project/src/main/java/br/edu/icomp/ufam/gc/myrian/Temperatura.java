@@ -1,5 +1,7 @@
 package br.edu.icomp.ufam.gc.myrian;
 
+import org.apache.commons.codec.digest.DigestUtils;
+
 public class Temperatura{
     private char escala;
     private double temperatura;
