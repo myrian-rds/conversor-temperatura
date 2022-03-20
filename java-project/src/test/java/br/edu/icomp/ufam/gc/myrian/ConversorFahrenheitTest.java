@@ -1,6 +1,6 @@
 package br.edu.icomp.ufam.gc.myrian;
 
-// import org.junit.jupiter.api.BeforeEach;
+//import org.junit.jupiter.api.BeforeEach;
 // import org.junit.jupiter.api.Test;
 
 import org.junit.Assert.assertEquals;
@@ -12,7 +12,7 @@ public class ConversorFahrenheitTest {
 
     private Conversor conversorTest;
 
-    @BeforeEach
+    @Test
     public void setup(){
         conversorTest = new Conversor('F', 50);
     }
