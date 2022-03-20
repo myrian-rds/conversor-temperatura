@@ -14,7 +14,7 @@ public class ConversorFahrenheitTest {
 
     @BeforeEach
     public void setup(){
-        conversorTest = new Conversor('F', 40);
+        conversorTest = new Conversor('F', 50);
     }
 
     @Test
