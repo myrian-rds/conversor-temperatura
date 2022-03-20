@@ -23,4 +23,3 @@ public class ConversorCelsiusTest {
         assertEquals(conversorTest.getTemp().getEscala(), 'F');
         assertEquals(conversorTest.getTemp().getTemperatura(), 68.00);
     }
-}
